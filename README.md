@@ -18,8 +18,15 @@ An end-to-end analytics project: raw loan data cleaned and validated in MySQL, v
 | On-time repayment rate | 87.54% | 87.54% |
 
 ## Screenshots
+**Power BI dashboard**
+
 ![Dashboard](images/dashboard.png)
-![Chatbot](images/chatbot.png)
+
+**Chatbot answers matching the dashboard**
+
+![Chatbot 1](images/chatbot-1.png)
+![Chatbot 2](images/chatbot-2.png)
+![Chatbot 3](images/chatbot-3.png)
 
 ## How it works
 1. The question goes to a Streamlit app.
