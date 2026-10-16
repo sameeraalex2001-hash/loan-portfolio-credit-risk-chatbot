@@ -43,7 +43,7 @@ MySQL, Power BI (DAX), Python, Streamlit, Google Gemini API
 
 ## Limitations
 - Open-ended questions depend on the Gemini API, which can be slow or rate-limited on the free tier.
-- The data is [synthetic / sample data, edit this line to match your data] and used for demonstration.
+- This project uses a sample loan dataset for demonstration purposes only.
 
 ## Author
-Sameera Alex, [add your LinkedIn link]
+Sameera Alex | [LinkedIn](https://www.linkedin.com/in/sameera-alex-analyst)
